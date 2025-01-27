@@ -1,3 +1,23 @@
+# custom ignore
+*.csv
+**/*.csv
+*.jsonl
+**/*.jsonl
+*.wav
+**/*.wav
+*.mp3
+**/*.mp3
+*.mp4
+**/*.mp4
+*.m4a
+**/*.m4a
+*.txt
+**/*.txt
+.DS_Store
+**/.DS_Store
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
